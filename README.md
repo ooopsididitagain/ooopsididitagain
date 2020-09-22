@@ -1,12 +1,25 @@
-### Hi there 👋
 
-<!--
-**ooopsididitagain/ooopsididitagain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Language and instuments
+    
+![Python](https://img.shields.io/badge/Python_3-dbd2c9?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-dbd2c9?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Django](https://img.shields.io/badge/Django-dbd2c9?style=for-the-badge&logo=django&logoColor=94a66c)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-dbd2c9?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
+![Html](https://img.shields.io/badge/HTML-dbd2c9?style=for-the-badge&logo=html5&logoColor=dd4b25)
+![CSS](https://img.shields.io/badge/CSS-dbd2c9?style=for-the-badge&logo=css3&logoColor=3e95cf)
 
-Here are some ideas to get you started:
+### In progress
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=efd81d)
+![GNU/Linux](https://img.shields.io/badge/Debian-000?style=for-the-badge&logo=debian&logoColor=a80030)
+#
+![Stats](https://github-readme-stats.vercel.app/api?username=ooopsididitagain&count_private=true&show_icons=true&bg_color=fff,000,30a14e,9be9a8&title_color=fff&text_color=fff&icon_color=fff)
+
+<!--### Hello world! 👋
+
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JavaScript (then VUE)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
