@@ -12,7 +12,13 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=efd81d)
 ![GNU/Linux](https://img.shields.io/badge/Debian-000?style=for-the-badge&logo=debian&logoColor=a80030)
+### Contact 
+[![Telegram](https://img.shields.io/badge/@telegram_-dbd2c9?style=for-the-badge&logo=telegram&logoColor=a80030)](https://t.me/Aiwan_gl)
+<br>
+
+[![mail](https://img.shields.io/badge/send_email-dbd2c9?style=for-the-badge&logo=yandex&logoColor=f90004)](mailto:gleboff.iv@yandex.ru)
 #
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=ooopsididitagain&count_private=true&show_icons=true&bg_color=fff,000,30a14e,9be9a8&title_color=fff&text_color=fff&icon_color=fff)
 
 <!--### Hello world! 👋
