@@ -10,6 +10,7 @@
 
 ### In progress
 
+![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin&logoColor=efd81d)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=efd81d)
 ![GNU/Linux](https://img.shields.io/badge/Debian-000?style=for-the-badge&logo=debian&logoColor=a80030)
 
