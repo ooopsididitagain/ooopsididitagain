@@ -8,16 +8,15 @@
 
 ### In progress
 
-![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin&logoColor=efd81d)
 ![GNU/Linux](https://img.shields.io/badge/Debian-000?style=for-the-badge&logo=debian&logoColor=a80030)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=efd81d)
+
 
 
 ### Basic knowlage
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-dbd2c9?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
 ![Html](https://img.shields.io/badge/HTML-dbd2c9?style=for-the-badge&logo=html5&logoColor=dd4b25)
 ![CSS](https://img.shields.io/badge/CSS-dbd2c9?style=for-the-badge&logo=css3&logoColor=3e95cf)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=efd81d)
 
 
 ### Contact 
