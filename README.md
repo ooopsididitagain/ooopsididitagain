@@ -4,18 +4,24 @@
 ![Python](https://img.shields.io/badge/Python_3-dbd2c9?style=for-the-badge&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-dbd2c9?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Django](https://img.shields.io/badge/Django-dbd2c9?style=for-the-badge&logo=django&logoColor=94a66c)
+![Git](https://img.shields.io/badge/git-dbd2c9?style=for-the-badge&logo=git&logoColor=e84e31)
 
 
 ### In progress
 
 ![GNU/Linux](https://img.shields.io/badge/Debian-000?style=for-the-badge&logo=debian&logoColor=a80030)
+![Kubernetes](https://img.shields.io/badge/kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=306adf)
 
 
 
 ### Basic knowlage
-![Bootstrap](https://img.shields.io/badge/Bootstrap-dbd2c9?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
 ![Html](https://img.shields.io/badge/HTML-dbd2c9?style=for-the-badge&logo=html5&logoColor=dd4b25)
 ![CSS](https://img.shields.io/badge/CSS-dbd2c9?style=for-the-badge&logo=css3&logoColor=3e95cf)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-dbd2c9?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
+
+![Flask](https://img.shields.io/badge/flask-dbd2c9?style=for-the-badge&logo=flask&logoColor=000)
+![Docker](https://img.shields.io/badge/docker-dbd2c9?style=for-the-badge&logo=docker&logoColor=0997e5)
+![Oracle](https://img.shields.io/badge/oracle-dbd2c9?style=for-the-badge&logo=oracle&logoColor=f80000)
 
 
 
