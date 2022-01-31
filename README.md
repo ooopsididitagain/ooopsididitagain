@@ -1,27 +1,36 @@
 
-### Language and instuments
+### Main language
     
 ![Python](https://img.shields.io/badge/Python_3-dbd2c9?style=for-the-badge&logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-dbd2c9?style=for-the-badge&logo=postgresql&logoColor=336791)
+
+#### Operating systems:
+![GNU/Linux](https://img.shields.io/badge/Debian-dbd2c9?style=for-the-badge&logo=debian&logoColor=a80030)
+![Windows](https://img.shields.io/badge/Windows-dbd2c9?style=for-the-badge&logo=windows&logoColor=05a6f0)
+#### Version control systems:
+![Gitlub](https://img.shields.io/badge/gitlab-dbd2c9?style=for-the-badge&logo=gitlab&logoColor=f96424)
+![Github](https://img.shields.io/badge/github-dbd2c9?style=for-the-badge&logo=github&logoColor=000)
+#### Frameworks:
 ![Django](https://img.shields.io/badge/Django-dbd2c9?style=for-the-badge&logo=django&logoColor=94a66c)
-![Git](https://img.shields.io/badge/git-dbd2c9?style=for-the-badge&logo=git&logoColor=e84e31)
-
-
-### In progress
-
-![GNU/Linux](https://img.shields.io/badge/Debian-000?style=for-the-badge&logo=debian&logoColor=a80030)
-![Kubernetes](https://img.shields.io/badge/kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=306adf)
-
-
-
-### Basic knowlage
-![Html](https://img.shields.io/badge/HTML-dbd2c9?style=for-the-badge&logo=html5&logoColor=dd4b25)
-![CSS](https://img.shields.io/badge/CSS-dbd2c9?style=for-the-badge&logo=css3&logoColor=3e95cf)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-dbd2c9?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
-
+![FastAPI](https://img.shields.io/badge/fastapi-dbd2c9?style=for-the-badge&logo=fastapi&logoColor=05988a)
 ![Flask](https://img.shields.io/badge/flask-dbd2c9?style=for-the-badge&logo=flask&logoColor=000)
-![Docker](https://img.shields.io/badge/docker-dbd2c9?style=for-the-badge&logo=docker&logoColor=0997e5)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-dbd2c9?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
+#### Databases:
 ![Oracle](https://img.shields.io/badge/oracle-dbd2c9?style=for-the-badge&logo=oracle&logoColor=f80000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-dbd2c9?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/mysql-dbd2c9?style=for-the-badge&logo=mysql&logoColor=00758f)
+#### Others:
+![Docker](https://img.shields.io/badge/docker-dbd2c9?style=for-the-badge&logo=docker&logoColor=0997e5)
+![PyCharm](https://img.shields.io/badge/pycharm-dbd2c9?style=for-the-badge&logo=pycharm&logoColor=000)
+![Slack](https://img.shields.io/badge/slack-dbd2c9?style=for-the-badge&logo=slack&logoColor=fff)
+![Jira](https://img.shields.io/badge/jira-dbd2c9?style=for-the-badge&logo=jira&logoColor=2580f7)
+#### Somedays:
+![Kubernetes](https://img.shields.io/badge/kubernetes-dbd2c9?style=for-the-badge&logo=kubernetes&logoColor=306adf)
+![JS](https://img.shields.io/badge/javascript-dbd2c9?style=for-the-badge&logo=javascript&logoColor=efd81d)
+
+
+
+
+
 
 
 
