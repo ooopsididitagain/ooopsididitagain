@@ -15,9 +15,9 @@
 ![Flask](https://img.shields.io/badge/flask-dbd2c9?style=for-the-badge&logo=flask&logoColor=000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-dbd2c9?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
 #### Databases:
-![Oracle](https://img.shields.io/badge/oracle-dbd2c9?style=for-the-badge&logo=oracle&logoColor=f80000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-dbd2c9?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/mysql-dbd2c9?style=for-the-badge&logo=mysql&logoColor=00758f)
+![Oracle](https://img.shields.io/badge/oracle-dbd2c9?style=for-the-badge&logo=oracle&logoColor=f80000)
 #### Others:
 ![Docker](https://img.shields.io/badge/docker-dbd2c9?style=for-the-badge&logo=docker&logoColor=0997e5)
 ![PyCharm](https://img.shields.io/badge/pycharm-dbd2c9?style=for-the-badge&logo=pycharm&logoColor=000)
