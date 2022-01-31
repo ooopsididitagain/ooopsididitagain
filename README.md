@@ -1,3 +1,4 @@
+> ***I know that I know nothing***
 
 ### Main language
     
@@ -27,19 +28,13 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-dbd2c9?style=for-the-badge&logo=kubernetes&logoColor=306adf)
 ![JS](https://img.shields.io/badge/javascript-dbd2c9?style=for-the-badge&logo=javascript&logoColor=efd81d)
 
-
-
-
-
-
-
-
 ### Contact 
 [![Telegram](https://img.shields.io/badge/@telegram_-dbd2c9?style=for-the-badge&logo=telegram&logoColor=a80030)](https://t.me/Aiwan_gl)
 [![mail](https://img.shields.io/badge/send_email-dbd2c9?style=for-the-badge&logo=thunderbird&logoColor=2261b8)](mailto:gleboff.iv@yandex.ru)
 #
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ooopsididitagain&count_private=true&show_icons=true&bg_color=fff,000,30a14e,9be9a8&title_color=fff&text_color=fff&icon_color=fff)
+
 
 <!--### Hello world! 👋
 
