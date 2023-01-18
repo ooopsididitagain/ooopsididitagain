@@ -33,7 +33,7 @@
 [![mail](https://img.shields.io/badge/send_email-dbd2c9?style=for-the-badge&logo=thunderbird&logoColor=2261b8)](mailto:gleboff.iv@yandex.ru)
 #
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ooopsididitagain&count_private=true&show_icons=true&bg_color=fff,000,30a14e,9be9a8&title_color=fff&text_color=fff&icon_color=fff)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=ooopsididitagain&count_private=true&show_icons=true&bg_color=fff,000,30a14e,9be9a8&title_color=fff&text_color=fff&icon_color=fff)-->
 
 
 <!--### Hello world! 👋
